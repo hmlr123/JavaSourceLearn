@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24f8a0c0-f532-4882-b826-a13e8f9617d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcLpSodoleaXpeOau2Fr3BspEZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/hmlr123/source" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmlr123.Main" />
+      <module name="JavaSourceLearn" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmlr123.test.hashmap.Test" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmlr123.test.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f8a0c0-f532-4882-b826-a13e8f9617d1" name="Default Changelist" comment="" />
+      <created>1585133617736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585133617736</updated>
+      <workItem from="1585133620707" duration="599000" />
+      <workItem from="1585135408695" duration="4568000" />
+      <workItem from="1585149436151" duration="3752000" />
+      <workItem from="1585153409115" duration="456000" />
+      <workItem from="1585153915364" duration="541000" />
+      <workItem from="1585154702312" duration="702000" />
+      <workItem from="1585155442944" duration="1959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Notifications" timestamp="1585153837950">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Notifications/-1366.141.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1585153837950" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1585155622544">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/-1366.141.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1585155622544" />
+    <state x="359" y="200" key="SettingsEditor" timestamp="1585157111409">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="359" y="200" key="SettingsEditor/-1366.141.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1585157111409" />
+    <state x="640" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585155444033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="349" key="com.intellij.ide.util.TipDialog/-1366.141.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1585155444033" />
+    <state x="616" y="178" width="672" height="676" key="search.everywhere.popup" timestamp="1585157121863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="178" width="672" height="676" key="search.everywhere.popup/-1366.141.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1585157121863" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hmlr123/test/hashmap/Test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hmlr123/test/hashmap/Test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
